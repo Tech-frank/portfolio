@@ -268,9 +268,7 @@ function App() {
             {/* About Text */}
             <div className="space-y-4">
               <p className="text-gray-300 text-lg leading-relaxed">
-                I'm a passionate software engineer with expertiseimport portfolio from '../assets/portfolio.png'
-import lancelot from '../assets/lancelot.png'
-import profis from '../assets/profis.png' in modern web technologies. 
+                I'm a passionate software engineer with expertise in modern web technologies. 
                 I love creating innovative solutions and building applications that make a difference. 
                 With experience in React, Django, and cloud technologies, I bring ideas to life 
                 through clean, efficient code and thoughtful design.
@@ -417,7 +415,7 @@ import profis from '../assets/profis.png' in modern web technologies.
     </div>
 
     <div className="rounded-lg shadow-md p-4 flex justify-center">
-      <a href="http://example.com">
+      <a href="https://github.com/Tech-frank">
         {/* GitHub */}
         <svg
           xmlns="http://www.w3.org/2000/svg"
