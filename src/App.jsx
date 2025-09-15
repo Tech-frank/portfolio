@@ -47,7 +47,7 @@ function App() {
               <p className="text-gray-300 text-lg leading-relaxed">
                 I'm a passionate software engineer with expertise in modern web technologies. 
                 I love creating innovative solutions and building applications that make a difference. 
-                With experience in React, Node.js, and cloud technologies, I bring ideas to life 
+                With experience in React, Django, and cloud technologies, I bring ideas to life 
                 through clean, efficient code and thoughtful design.
               </p>
               
