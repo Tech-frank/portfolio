@@ -95,7 +95,7 @@ const Navbar = () => {
         />
         
         {/* Menu Panel with Enhanced Glassmorphism */}
-        <div className={`absolute top-0 left-0 right-0 h-screen overflow-y-auto backdrop-blur-3xl bg-white/5 border-b border-white/10 shadow-2xl transform transition-transform duration-500 ease-out ${
+        <div className={`absolute top-0 left-0 right-0 h-screen overflow-x-auto backdrop-blur-3xl bg-white/5 border-b border-white/10 shadow-2xl transform transition-transform duration-500 ease-out ${
           isMenuOpen ? 'translate-y-0' : '-translate-y-full'
         }`}>
           <div className="pt-20 pb-8 px-4">
