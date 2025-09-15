@@ -443,7 +443,7 @@ function App() {
     </div>
 
     <div className="rounded-lg shadow-md p-4 flex justify-center">
-      <a href="http://example.com">
+      <a href="https://x.com/EtuFrankly57851">
         {/* X/Twitter */}
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -469,7 +469,7 @@ function App() {
     </div>
 
     <div className="rounded-lg shadow-md p-4 flex justify-center">
-      <a href="http://example.com">
+      <a href="https://www.linkedin.com/in/franklyn-etu-87b12a2a7/">
         {/* LinkedIn */}
         <svg
           xmlns="http://www.w3.org/2000/svg"
