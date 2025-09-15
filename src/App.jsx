@@ -131,7 +131,7 @@ function App() {
             </div>
 
             {/* Hamburger */}
-            <div className={`hidden lg:block transition-all duration-500 ${ isScrolled ? 'block lg:block' : 'block lg:hidden'}`}>
+            <div className={` transition-all duration-500 ${ isScrolled ? 'block lg:block' : 'block lg:hidden'}`}>
               <button
                 onClick={toggleMenu}
                 className="relative w-10 h-10 rounded-full border border-white/30 hover:border-white/50 focus:outline-none focus:border-white/60 group transition-all duration-300 flex items-center justify-center backdrop-blur-sm"
