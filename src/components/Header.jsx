@@ -27,7 +27,7 @@ export default function Header() {
         
         {/* Buttons */}
         <div className="flex flex-col sm:flex-row gap-4">
-          <button className="border border-yellow-400 text-yellow-400 px-8 py-4 rounded-lg hover:bg-yellow-400 hover:text-black transition-all duration-300 font-medium">
+          <button className="border border-yellow-400 text-yellow-400 px-6 py-2 rounded-lg hover:bg-yellow-400 hover:text-black transition-all duration-300 font-medium">
             Check Out My Work!
           </button>
           
