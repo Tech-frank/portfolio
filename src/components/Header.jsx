@@ -18,7 +18,7 @@ export default function Header() {
         </h1>
         
         {/* Description */}
-        <p className="text-gray-300 text-lg leading-relaxed max-w-xl mb-12 font-light">
+        <p className="text-gray-300 text-lg leading-relaxed max-w-[300px] mb-12 font-light">
           Software Developer & Critical Thinker. I enjoy turning complex problems into simple 
           and beautiful designs. My job is to give you a smooth, beautiful, and user-friendly 
           product. I aim to provide you with the best and work as hard as I can to make your 
