@@ -232,10 +232,10 @@ function App() {
           >
             Check Out My Work!
           </a>
-          <a href="#Contact">
-          <button className="bg-yellow-400 text-black px-8 py-4 rounded-lg hover:bg-yellow-500 transition-all duration-300 font-medium">
+          <a href="#Contact" className='bg-yellow-400 text-black px-8 py-4 rounded-lg hover:bg-yellow-500 transition-all duration-300 font-medium text-center'>
+         
             Contact Me
-          </button>
+          
           </a>
         </div>
       </div>
