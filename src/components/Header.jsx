@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Contact from './Contact';
 export default function Header() {
   return (
     <div className="min-h-screen bg-black text-white p-2 flex items-center justify-start">
@@ -27,9 +27,12 @@ export default function Header() {
         
         {/* Buttons */}
         <div className="flex flex-col sm:flex-row gap-4">
-          <button className="border border-yellow-400 text-yellow-400 px-6 py-2 rounded-lg hover:bg-yellow-400 hover:text-black transition-all duration-300 font-medium">
+          <a
+            href="/Contact"
+            className="border border-yellow-400 text-yellow-400 px-6 py-2 rounded-lg hover:bg-yellow-400 hover:text-black transition-all duration-300 font-medium text-center"
+          >
             Check Out My Work!
-          </button>
+          </a>
           
           <button className="bg-yellow-400 text-black px-8 py-4 rounded-lg hover:bg-yellow-500 transition-all duration-300 font-medium">
             Contact Me

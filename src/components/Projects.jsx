@@ -12,7 +12,7 @@ export default function Projects(){
                         <img src={portfolio} alt="Project 1" className="w-full h-48 object-cover"/>
                         <div className="p-4">
                             <h2 className="text-xl font-semibold mb-2">Project One</h2>
-                            <p className="text-gray-600 mb-4">This the Portfolio Website I Build For Myself.</p>
+                            <p className="text-gray-600 mb-4">This the Portfolio Website I Built For Myself.</p>
                             <a href="#" className="text-blue-500 hover:underline">View Project</a>
                         </div>
                     </div>
@@ -30,7 +30,7 @@ export default function Projects(){
                         <img src={profis} alt="Project 3" className="w-full h-48 object-cover"/>
                         <div className="p-4">
                             <h2 className="text-xl font-semibold mb-2">Project Three</h2>
-                            <p className="text-gray-600 mb-4">A tool to help the project team of a company - Atlantic Fluids and Integrated Services Limited - to help them manage their workflows efficiently.</p>
+                            <p className="text-gray-600 mb-4">A tool for the project team of a company - Atlantic Fluids and Integrated Services Limited - to help them manage their workflows efficiently.</p>
                             <a href="https://profis-fleet-forge.vercel.app/" className="text-blue-500 hover:underline">View Project</a>
                         </div>
                     </div>
